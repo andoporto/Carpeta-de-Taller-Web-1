@@ -1,0 +1,51 @@
+what,kind,bundleId,bundleVersion,description,time
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1405870608890
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1405870616609
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1405870631546
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1405870633546
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1405870636046
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1405870655843
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1405870664015
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1405870672890
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1405870729921
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1405870750515
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1405870753218
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1405870755421
+error,log,,,"Internal error logged from JDI Debug: ",1405870824281
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1405870834671
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1405870894140
+error,log,,,"Internal error logged from JDI Debug: ",1405870907250
+error,log,,,"Internal error logged from JDI Debug: ",1405870919671
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1405870931281
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1405870949000
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1405870954390
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1405870983109
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1405871030343
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction",1405871035250
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.debug.CompilationUnitEditor.BreakpointRulerActions/org.eclipse.jdt.debug.ui.actions.ManageBreakpointRulerAction",1405871040093
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1405871041703
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1405871048531
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1405871059390
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1405871095281
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1405871130578
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1405871148609
+error,log,,,"Internal error logged from JDI Debug: ",1405871165421
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1405871173140
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1405871221687
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1405871222937
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1405871224093
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1405871268656
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1405871269500
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1405871296187
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1405871492078
+error,log,,,"Internal error logged from JDI Debug: ",1405871531531
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1405871543265
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1405871561609
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction",1405871566328
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction",1405871572734
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.debug.CompilationUnitEditor.BreakpointRulerActions/org.eclipse.jdt.debug.ui.actions.ManageBreakpointRulerAction",1405871575109
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1405871598781
+error,log,,,"Internal error logged from JDI Debug: ",1405871599796
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1405871620984
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1405871628265
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1405871639593

@@ -1,0 +1,5 @@
+INDEX VERSION 1.126
+C:\Taller Web 1\TP final Taller Web I\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\804383519.index
+\tp-carrito-compras\src\main\java
+C:\Taller Web 1\TP final Taller Web I\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2181375654.index
+\tp-carrito-compras\src\main\java

@@ -1,0 +1,5 @@
+INDEX VERSION 1.122+C:\Taller Web 1\TP final Taller Web I\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4060476626.index
+2061581634.index
+313435958.index
+3075976068.index
